@@ -30,7 +30,7 @@ struct SplashView: View {
                     Text("Lexora")
                         .font(.system(size: 48, weight: .bold))
                     
-                    Text("See it. Say it. Know it.")
+                    Text("AI & Data Glossary")
                         .font(.system(size: 24, weight: .medium))
                     
                     LexoraButton(title: "Let's Begin") {
