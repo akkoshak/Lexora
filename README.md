@@ -22,6 +22,14 @@ The **AI Glossary Challenge** is an initiative by [ICAIRE](https://aigc.icaire.o
 
 ---
 
+## Screenshots
+ 
+![Lexora App Screenshots](Images/Screenshots.png)
+ 
+*From left to right: Onboarding, Home (Word of the Day + Daily Streak), Dictionary, Flashcards*
+ 
+---
+
 ## Features
 
 ### 📖 Dictionary
